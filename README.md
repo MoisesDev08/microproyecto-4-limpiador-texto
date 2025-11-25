@@ -6,6 +6,7 @@ Este script permite limpiar y analizar texto plano (.txt) desde consola, elimina
 - `limpiador.py`: script principal
 - `README.md`: documentación del proyecto
 - `portada.txt`: arte ASCII opcional
+- `utilidades.py`: funciones reutilizables
 
 ## ⚙️ Funcionalidades
 - Limpieza de texto
